@@ -6,6 +6,7 @@ public class packtest2 {
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
 		//changes done in git hub3
+		//changes pulled from github3
 	}
 
 }
